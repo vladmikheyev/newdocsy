@@ -27,7 +27,14 @@ _(даты приведены по старому стилю)_
 + Шеф жандармов Бенкендорф `(23 июня 1782(или 1781)(Рак/Бык(илиТигр))("биполярный")` и проч.
 
 
-90's four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps **kale chips**.
+иже с ними пригретые ими литераторы:
+- Булгарин Фаддей Венедиктович `(род. 24 июня 1789г.)(Рак/Петух)("49")`,
+- Греч Николай Иванович `(род. 3 августа 1787г.)(Лев/Коза)("нейтр.")`,
+- братья Полевые
+   - Ксенофонт Алексеевич `(род. 20 июля 1801г.)(Лев/Петух)("9-ка")`
+   - Николай Алексеевич `(род. 22 июня 1796г.)(Рак/Дракон)("4-ка")`.
+
+ Да, приблизительно к этому времени Братья Полевые `("49")` заключили тактический союз с Булгариным `("49")`, обострив полемику между "Московским телеграфом", "Северной пчелой", "Сыном Отечества" (все детища `9-ки`), с одной стороны, и "Литературной Газетой", "Северными цветами", с другой.
 
 > There should be no margin above this first sentence.
 >
