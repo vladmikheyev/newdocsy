@@ -1,5 +1,5 @@
 ---
-categories: ["Examples"]
+categories: ["Пушкин"]
 tags: ["test", "sample", "docs"]
 title: "О Пушкине и Судье"
 linkTitle: "О Пушкине и Судье"
@@ -9,7 +9,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-**О Белой лошаде и т.д.**
+**О Белом коне и всаднике...**
 {{% /pageinfo %}}
 
 

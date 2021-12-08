@@ -1,5 +1,5 @@
 ---
-categories: ["Examples", "Placeholders"]
+categories: ["Пушкин", "Пророки", "Placeholders"]
 tags: ["test","docs"]
 title: "Об Александре Сергеевиче"
 linkTitle: "О Пушкине"

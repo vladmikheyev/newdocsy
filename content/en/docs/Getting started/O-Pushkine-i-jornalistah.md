@@ -1,5 +1,5 @@
 ---
-categories: ["Examples"]
+categories: ["Пушкин"]
 tags: ["test", "sample", "docs"]
 title: "О Пушкине и журналистах"
 linkTitle: "О Пушкине и журналистах"
