@@ -19,5 +19,3 @@ description: >
 {{% /pageinfo %}}
 
 ![Pushkin](/Pushkin.png)
-
-![horoscope](/Pushkin-horoscope.png)
