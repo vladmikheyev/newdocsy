@@ -44,7 +44,7 @@ Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork b
 This is a code block following a header.
 ```
 
-Next level leggings before they sold out, PBR&B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan. 
+Next level leggings before they sold out, PBR&B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.
 
 #### Header 4
 
@@ -189,7 +189,7 @@ Inline code inside table cells should still be distinguishable.
 
 Small images should be shown at their actual size.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+![](C:\Users\D1.038-Mikheyev\Documents\МОЕ\www\newdocsy\resources\_gen\images\2021-10-28 12.10.38 yandex.ru 433236b3651c.jpg)
 
 Large images should always scale down and fit in the content container.
 

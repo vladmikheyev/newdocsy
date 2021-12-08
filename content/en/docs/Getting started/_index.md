@@ -17,3 +17,5 @@ description: >
 
 Глаголом жги сердца людей"
 {{% /pageinfo %}}
+
+![Pushkin](/Pushkin.png)
