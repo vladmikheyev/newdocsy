@@ -1,13 +1,13 @@
 
 ---
-title: "Литература"
-linkTitle: "Литература"
+title: "Examples"
+linkTitle: "Examples"
 weight: 3
 date: 2017-01-05
 description: >
-  Важные для "Теории поляризации" первоисточники.
+  Examples
 ---
 
 {{% blocks/lead color="green" %}}
-Важные для "Теории поляризации" первоисточники.
+Examples
 {{% /blocks/lead %}}
