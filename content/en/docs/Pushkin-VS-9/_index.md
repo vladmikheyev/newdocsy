@@ -19,3 +19,5 @@ description: >
 {{% /pageinfo %}}
 
 ![Pushkin](/Pushkin.png)
+
+[Пушкин против "Девятки"](http://samlib.ru/m/miheew_w_g/pushkin.shtml)
