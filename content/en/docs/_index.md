@@ -1,7 +1,7 @@
 
 ---
 title: "Метафизические основы"
-linkTitle: "О чем этот сайт?"
+linkTitle: "О чем?"
 weight: 20
 menu:
   main:
