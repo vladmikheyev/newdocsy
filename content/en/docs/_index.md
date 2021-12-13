@@ -1,7 +1,7 @@
 
 ---
-title: "Метафизические основы"
-linkTitle: "О чем?"
+title: "СТАТЬИ"
+linkTitle: "Статьи"
 weight: 20
 menu:
   main:
@@ -9,5 +9,5 @@ menu:
 ---
 
 {{% pageinfo %}}
-2 VS 9
+"2" VS "9"
 {{% /pageinfo %}}
