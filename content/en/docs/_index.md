@@ -1,7 +1,7 @@
 
 ---
 title: "Метафизические основы"
-linkTitle: "Статьи"
+linkTitle: "О чем?"
 weight: 20
 menu:
   main:
