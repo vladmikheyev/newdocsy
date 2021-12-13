@@ -50,7 +50,7 @@ description: >
 
 ## Привязка к цифре
 
-
+[Гематрия](/docs/vektornoje-kolco/gematriya/)
 
 ## Where should I go next?
 

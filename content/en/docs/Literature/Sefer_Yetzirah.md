@@ -1,6 +1,6 @@
 ---
 categories: ["«Сефер Йецира»"]
-tags: ["test", "sample", "docs"]
+tags: ["святое", "основы", "docs"]
 title: "«Сефер Йецира»"
 linkTitle: "«Сефер Йецира»"
 date: 2021-01-02
