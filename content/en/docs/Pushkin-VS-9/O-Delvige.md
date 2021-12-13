@@ -1,6 +1,6 @@
 ---
 categories: ["Пушкин"]
-tags: ["test", "sample", "docs"]
+tags: ["Пушкин", "sample", "docs"]
 title: "О бароне Дельвиге"
 linkTitle: "О Пушкине-Дельвиге-Баратынском"
 date: 2017-01-05

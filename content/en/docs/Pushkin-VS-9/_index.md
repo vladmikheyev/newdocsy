@@ -1,6 +1,6 @@
 ---
 categories: ["Пушкин", "Пророки", "Placeholders"]
-tags: ["test","docs"]
+tags: ["Пушкин","docs"]
 title: "Об Александре Сергеевиче"
 linkTitle: "О Пушкине"
 weight: 2

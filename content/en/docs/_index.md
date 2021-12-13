@@ -10,4 +10,6 @@ menu:
 
 {{% pageinfo %}}
 "2" VS "9"
+
+"ב" VS "ט"
 {{% /pageinfo %}}

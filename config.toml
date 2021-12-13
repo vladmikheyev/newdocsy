@@ -70,9 +70,9 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
-languageName ="English"
+title = "Теория полюсов"
+description = "Основы"
+languageName ="Русский"
 # Weight used for sorting.
 weight = 1
 [languages.no]

@@ -1,6 +1,6 @@
 ---
 categories: ["Пушкин"]
-tags: ["test", "sample", "docs"]
+tags: ["Пушкин", "sample", "docs"]
 title: "О Пушкине и журналистах"
 linkTitle: "О Пушкине и журналистах"
 date: 2021-06-12
