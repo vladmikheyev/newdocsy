@@ -18,3 +18,5 @@ _"... - где тебя прибрало? Взмостился ли ты для 
 {{% /pageinfo %}}
 
 [История Джона Леннона](http://samlib.ru/m/miheew_w_g/injohnwetrust.shtml)
+
+![Расклад](/Lennon/1-beatles.jpg)
