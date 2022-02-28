@@ -19,4 +19,13 @@ _"... - где тебя прибрало? Взмостился ли ты для 
 
 [История Джона Леннона](http://samlib.ru/m/miheew_w_g/injohnwetrust.shtml)
 
-![Расклад](/Lennon/1-beatles.jpg)
+
+<style>
+   .scale {
+    transition: 1s; /* Время эффекта */
+   }
+   .scale:hover {
+    transform: scale(1.3) translateX(80px); /* Увеличиваем масштаб и сдвигаем вправо*/
+     }
+</style>
+<img src="/Lennon/1-beatles.jpg" alt="" class="scale">
