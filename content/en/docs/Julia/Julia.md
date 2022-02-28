@@ -52,7 +52,7 @@ description: >
     transition: 1s; /* Время эффекта */
    }
    .scale:hover {
-    transform: scale(1.4) translateX(80px); /* Увеличиваем масштаб */
+    transform: scale(1.8) translateX(110px); /* Увеличиваем масштаб и сдвигаем вправо*/
      }
 </style>
 <img src="/Julia/01dzhulija.jpg" alt="" class="scale">
