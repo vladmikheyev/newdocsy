@@ -19,7 +19,7 @@ description: >
     transition: 1s; /* Время эффекта */
    }
    .scale:hover {
-    transform: scale(1.4) translate(10px, 80px); /* Увеличиваем масштаб и сдвигаем вправо*/
+    transform: scale(1.3) translate(10px, 80px); /* Увеличиваем масштаб и сдвигаем вправо*/
      }
 </style>
 <p class="aligncenter"><img src="/ris1-vectorn-kolco.png" alt="" class="scale"></p>
@@ -81,7 +81,12 @@ description: >
 ## "13" на "Векторном кольце"
 #### (6+7; 8+5; 9+4; 10+3; 11+2; 12+1)
 
-![13 на Векторном кольце](/poljarizacionnyesw-wawektornogokolxca-8.png)
+
+
+
+<a  target="_blank" href="/poljarizacionnyesw-wawektornogokolxca-8.png">
+<img width="800" height="400" src="/poljarizacionnyesw-wawektornogokolxca-8.png"></a>
+
 
 - Комбинации **"6+7"** и **"8+5"** энергетически (в плане "Теории полюсов") - **"нейтральные"**.
 
