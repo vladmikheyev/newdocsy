@@ -20,10 +20,17 @@ description: >
 
 <style>
    .scale {
-    transition: 1s; /* Время эффекта */
+    display: inline-block; /* Строчно-блочный элемент */
+    overflow: hidden; /* Скрываем всё за контуром */
    }
-   .scale:hover {
-    transform: scale(1.2) translateX(40px); /* Увеличиваем масштаб и сдвигаем вправо*/
+   .scale img {
+    transition: 1s; /* Время эффекта */
+    display: block; /* Убираем небольшой отступ снизу */
+   }
+   .scale img:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб*/
      }
 </style>
-<p><a target="_blank" href="http://samlib.ru/m/miheew_w_g/pushkin.shtml"><img src="/Pushkin.png" alt="" class="scale"></p>
+<div class="scale"><img src="/Pushkin.png" alt="" class="scale"></div>
+
+<a target="_blank" href="http://samlib.ru/m/miheew_w_g/pushkin.shtml">Пушкин против "Девятки"</a>
