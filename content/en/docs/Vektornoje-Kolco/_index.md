@@ -19,7 +19,7 @@ description: >
     transition: 1s; /* Время эффекта */
    }
    .scale:hover {
-    transform: scale(1.1) translateY(40px); /* Увеличиваем масштаб и сдвигаем вправо*/
+    transform: scale(1.4) translate(80px, 80px); /* Увеличиваем масштаб и сдвигаем вправо*/
      }
 </style>
 <img src="/ris1-vectorn-kolco.png" alt="" class="scale">
