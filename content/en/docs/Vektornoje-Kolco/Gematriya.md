@@ -7,7 +7,20 @@ date: 2021-01-01
 description: >
   Гематрия
 ---
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
+   ym(87588277, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/87588277" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 {{% pageinfo %}}
 Гематри́я (ивр. ‏גימטריה‏‎) — в иудейской традиции, один из методов (наряду с нотариконом и темурой) анализа смысла слов и фраз на основе числовых значений входящих в них букв. Гематрией слова называется сумма числовых значений входящих в него букв. У слов с одинаковой гематрией предполагается символическая (скрытая) смысловая связь. Например, одинаковую гематрию (358) имеют слова נחש (змей), משׁיח (мессия), קורבן (жертва) и מחודש (обновлённый, восстановленный).
 {{% /pageinfo %}}

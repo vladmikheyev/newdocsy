@@ -7,7 +7,20 @@ date: 2021-01-02
 description: >
   Один из основополагающих текстов в каббале, авторство которого традиционно приписывают Аврааму, по сути, в иносказательной форме содержит основы "Теории поляризации".
 ---
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
+   ym(87588277, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/87588277" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 {{% pageinfo %}}
 "Он создал существо из пустоты и сделал из небытия его бытие его и извлек **два столба** великие из воздуха, которые ничем не отделаны, и это знак: взором и словом сотворил все творение и эти все вещи одним именем и знак сим вещам **22** числа как одно тело"
 
