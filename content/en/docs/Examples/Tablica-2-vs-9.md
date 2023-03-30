@@ -25,6 +25,7 @@ description: >
  Вспомогательный материал. **Таблица "2 vs 9"**
  {{% /pageinfo %}}
 
+<!--
  <style>
     .scale {
      transition: 1s; /* Время эффекта */
@@ -33,4 +34,6 @@ description: >
      transform: scale(1.4) translateX(40px); /* Увеличиваем масштаб и сдвигаем вправо*/
       }
  </style>
- <img src="/Tablica-2-vs-9.jpg" alt="" class="scale">
+ <img src="/Tablica-2-vs-9.jpg" alt="" class="scale"> -->
+
+ <a href="/Tablica-2-vs-9.jpg" data-fancybox data-caption="Таблица «2 VS 9»"><img src="/Tablica-2-vs-9.jpg" /></a>
