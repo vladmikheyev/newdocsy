@@ -1,0 +1,19 @@
+<!-- search form for pagefind -->
+<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search",
+        showImages: false,
+        translations: {
+        placeholder: "ПОИСК (вводите слово-запрос, начиная с первой буквы)",
+        zero_results: "ПО ЗАПРОСУ: [SEARCH_TERM] - НИЧЕГО НЕ НАЙДЕНО",
+        load_more: "ПОКАЗАТЬ ЕЩЕ...",
+        many_results: "НАЙДЕНО [COUNT] СТРАНИЦ ПО ЗАПРОСУ: [SEARCH_TERM]",
+        one_result: "НАЙДЕНА [COUNT] СТРАНИЦА ПО ЗАПРОСУ: [SEARCH_TERM]",
+    }
+   });
+    });
+</script><br>
+  <!-- end search form for pagefind -->

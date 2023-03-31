@@ -1,11 +1,11 @@
 ---
-categories: ["Таблица 2vs9"]
-tags: ["Таблица 2vs9"]
-title: "Таблица 2vs9"
-linkTitle: "Таблица 2vs9"
+categories: ["Таблица «2 VS 9», года Векторного кольца"]
+tags: ["Таблица 2vs9", "Года Векторного кольца"]
+title: "Таблица «2 VS 9», года Векторного кольца"
+linkTitle: "Таблица «2 VS 9», года Векторного кольца"
 date: 2021-01-01
 description: >
-  Таблица "2 vs 9"
+  Таблица «2 VS 9», года Векторного кольца
 ---
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
@@ -22,7 +22,7 @@ description: >
 <noscript><div><img src="https://mc.yandex.ru/watch/87588277" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
  {{% pageinfo %}}
- Вспомогательный материал. **Таблица "2 vs 9"**
+ Вспомогательные материалы. **Таблицы "2 vs 9", года Векторного кольца, Векторное кольцо**
  {{% /pageinfo %}}
 
 <!--
@@ -36,4 +36,14 @@ description: >
  </style>
  <img src="/Tablica-2-vs-9.jpg" alt="" class="scale"> -->
 
- <a href="/Tablica-2-vs-9.jpg" data-fancybox data-caption="Таблица «2 VS 9»"><img src="/Tablica-2-vs-9.jpg" /></a>
+### ❇️ Таблицы "2 vs 9"
+
+<a href="/Tablica-2-vs-9.jpg" data-fancybox="gallery" data-caption="Таблица «2 VS 9»"><img src="/Tablica-2-vs-9.jpg" /></a>
+
+### ❇️ Таблица соответствия годов Векторному кольцу
+
+<a href="/goda-vk.png" data-fancybox="gallery" data-caption="Таблица соответствия годов Векторному кольцу"><img src="/goda-vk.png" /></a>
+
+### ❇️ Графическое изображение Векторного кольца
+
+<a href="/ris1-vectorn-kolco.png" data-fancybox="gallery" data-caption="Векторное кольцо"><img src="/ris1-vectorn-kolco.png" /></a>

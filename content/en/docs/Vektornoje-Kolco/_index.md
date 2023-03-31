@@ -19,6 +19,7 @@ description: >
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/87588277" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
 {{% pageinfo %}}
 [Григорий Кваша](http://cyclowiki.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%9A%D0%B2%D0%B0%D1%88%D0%B0) - автор "Векторного кольца"
 {{% /pageinfo %}}
@@ -27,6 +28,7 @@ description: >
 
 <a target="_blank" href="http://samlib.ru/m/miheew_w_g/poljarizacionnyesw-wawektornogokolxca.shtml">Поляризационные свойства "Векторного кольца"</a>
 
+<!--
 <style>
    .scale {
     transition: 1s; /* Время эффекта */
@@ -35,8 +37,9 @@ description: >
     transform: scale(1.3) translate(10px, 80px); /* Увеличиваем масштаб и сдвигаем вправо*/
      }
 </style>
-<p class="aligncenter"><img src="/ris1-vectorn-kolco.png" alt="" class="scale"></p>
+<p class="aligncenter"><img src="/ris1-vectorn-kolco.png" alt="" class="scale"></p> -->
 
+<a href="/ris1-vectorn-kolco.png" data-fancybox data-caption="Векторное кольцо"><img src="/ris1-vectorn-kolco.png" /></a>
 
  ## Что это?
 
