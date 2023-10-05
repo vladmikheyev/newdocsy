@@ -22,7 +22,5 @@ menu:
 <noscript><div><img src="https://mc.yandex.ru/watch/87588277" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 {{% pageinfo %}}
-"2" VS "9"
-
-"ב" VS "ט"
+"2" VS "9"   "ב" VS "ט"
 {{% /pageinfo %}}

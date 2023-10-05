@@ -3,6 +3,7 @@ categories: ["Пояснения"]
 tags: ["Пояснения"]
 title: "Пояснения"
 linkTitle: "Пояснения"
+weight: 7
 date: 2021-01-01
 description: >
   Пояснения

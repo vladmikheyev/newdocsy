@@ -1,11 +1,11 @@
 ---
 categories: ["Джон Леннон"]
-tags: ["Джон", "Битлз"]
-title: "ВЕРИМ в ДЖОНА"
-linkTitle: "ВЕРИМ в ДЖОНА"
-weight: 3
+tags: ["Джон", "Джулия", "Битлз"]
+title: "Джулия"
+linkTitle: "ВЕРИМ в ДЖОНА. Глава 2"
+weight: 4
 description: >
-  История Джона Леннона, рассказанная в терминах "Теории Полюсов".
+  История Джона Леннона, рассказанная в терминах "Теории Полюсов".<br> Глава 2. Джулия.
 ---
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
@@ -35,13 +35,13 @@ _"... - где тебя прибрало? Взмостился ли ты для 
 
 [История Джона Леннона](http://samlib.ru/m/miheew_w_g/injohnwetrust.shtml)
 
-
 <style>
    .scale {
-    transition: 1s; /* Время эффекта */
+    transition: 0.5s; /* Время эффекта */
    }
    .scale:hover {
-    transform: scale(1.3) translateX(80px); /* Увеличиваем масштаб и сдвигаем вправо*/
+    transform: scale(1.1); /* Увеличиваем масштаб и сдвигаем вправо*/
      }
 </style>
-<img src="/Lennon/1-beatles.jpg" alt="" class="scale">
+
+<a href="/Lennon/1-beatles.jpg" data-fancybox data-caption="Поляризационный расклад в жизни Джона и Джулии"><img class="scale" src="/Lennon/1-beatles.jpg" /></a>

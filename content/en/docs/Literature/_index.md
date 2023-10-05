@@ -1,12 +1,14 @@
-
 ---
+categories: ["Литература"]
+tags: ["Литература", "Источники"]
 title: "Литература"
 linkTitle: "Литература"
-weight: 3
+weight: 6
 date: 2017-01-05
 description: >
   Важные для "Теории поляризации" первоисточники.
 ---
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};

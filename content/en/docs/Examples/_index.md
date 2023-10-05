@@ -1,11 +1,13 @@
 
 ---
-title: "Examples"
-linkTitle: "Examples"
-weight: 3
+categories: ["Примеры"]
+tags: ["Примеры", "Статьи"]
+title: "ПРИМЕРЫ"
+linkTitle: "ПРИМЕРЫ"
+weight: 5
 date: 2017-01-05
 description: >
-  Examples
+  Отдельные статьи и примеры проявления "поляризационных" свойств Векторного кольца
 ---
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
@@ -22,5 +24,5 @@ description: >
 <noscript><div><img src="https://mc.yandex.ru/watch/87588277" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 {{% blocks/lead color="green" %}}
-Examples
+ПРИМЕРЫ
 {{% /blocks/lead %}}

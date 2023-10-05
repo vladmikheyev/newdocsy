@@ -1,4 +1,6 @@
 ---
+categories: ["Теория", "Основы"]
+tags: ["Сефер Йецира", "основы", "Гематрия", "Дух Двойки"]
 title: "Векторное кольцо"
 linkTitle: "Векторное кольцо"
 weight: 1
@@ -28,25 +30,35 @@ description: >
 
 <a target="_blank" href="http://samlib.ru/m/miheew_w_g/poljarizacionnyesw-wawektornogokolxca.shtml">Поляризационные свойства "Векторного кольца"</a>
 
-<!--
 <style>
    .scale {
-    transition: 1s; /* Время эффекта */
+    transition: 0.5s; /* Время эффекта */
    }
    .scale:hover {
-    transform: scale(1.3) translate(10px, 80px); /* Увеличиваем масштаб и сдвигаем вправо*/
+    transform: scale(1.1); /* Увеличиваем масштаб и сдвигаем вправо*/
      }
+
 </style>
-<p class="aligncenter"><img src="/ris1-vectorn-kolco.png" alt="" class="scale"></p> -->
 
-<a href="/ris1-vectorn-kolco.png" data-fancybox data-caption="Векторное кольцо"><img src="/ris1-vectorn-kolco.png" /></a>
+<div>
+  <a href="/ris1-vectorn-kolco.png" data-fancybox="gallery" data-caption="Рис. 1. Векторное кольцо"><img class="scale" src="/ris1-vectorn-kolco.png" /></a>
+  <h5>Рис. 1. Векторное кольцо</h5>
+</div>
 
- ## Что это?
+#
+
+## Что это?
 
  Так выглядят энергетические связи между знаками. Это малоизученная область. Приглядимся, два участка структурно похожи: периоды по 3 месяца: первый - Овен-Телец-Близнецы (и, соответственно, - Крыса-Бык-Тигр), второй - Стрелец-Козерог-Водолей (Обезьяна - Петух - Собака). Энергетический смысл в том, что эти участки конфликтуют, противостоят друг другу, наделяя Векторное Кольцо полярными свойствами. Точки перехода: 20-е апреля (из Овна в Телец) и 21-е декабря (из Стрельца в Козерог) - это полюса. А вышеозначенные периоды вокруг полюсов - это, своего рода, "полярные шапки". Можно сказать, что поляризационные свойства "полярной шапки" усиливаются по мере приближения к ее полюсу.
 
+#
 
- ![Рис.2 Полюса Векторного кольца.](/poljarizacionnyesw-wawektornogokolxca-2.png)
+
+  <a href="/poljarizacionnyesw-wawektornogokolxca-2.png" data-fancybox="gallery" data-caption="Рис. 2. Полюса Векторного кольца"><img class="scale" src="/poljarizacionnyesw-wawektornogokolxca-2.png" /></a>
+  <h5>Рис. 2. Полюса Векторного кольца</h5>
+
+
+#
 
  Сравним. [Книга Творения](/docs/literature/sefer_yetzirah-burmistrov/):
 
@@ -88,7 +100,13 @@ description: >
 
 Отсуда имеем:
 
-![Цифровые коды полюсов](/ris3.jpg)
+
+<div>
+<a href="/ris3.jpg" data-fancybox="gallery" data-caption="Рис. 3. Цифровые коды полюсов"><img class="scale" src="/ris3.jpg" /></a>
+<h5 text-align:>Рис. 3. Цифровые коды полюсов</h5>
+</div>
+
+#
 
 Цифровой код **"Горячего полюса"** = 1 **2** 3 с "управляющей" **"Двойкой"**
 
@@ -99,12 +117,12 @@ description: >
 ## "13" на "Векторном кольце"
 #### (6+7; 8+5; 9+4; 10+3; 11+2; 12+1)
 
+<div>
+<a href="/poljarizacionnyesw-wawektornogokolxca-8.png" data-fancybox="gallery" data-caption="Рис. 4. «13» на Векторном кольце"><img class="scale" src="/poljarizacionnyesw-wawektornogokolxca-8.png" /></a>
+<h5 text-align:>Рис. 4. «13» на Векторном кольце</h5>
+</div>
 
-
-
-<a  target="_blank" href="/poljarizacionnyesw-wawektornogokolxca-8.png">
-<img width="800" height="400" src="/poljarizacionnyesw-wawektornogokolxca-8.png"></a>
-
+#
 
 - Комбинации **"6+7"** и **"8+5"** энергетически (в плане "Теории полюсов") - **"нейтральные"**.
 
@@ -116,7 +134,12 @@ description: >
 
 - И, наконец, комбинация **"9+4"** обладает ярко выраженной "поляризацией" под знаком **"Холодного полюса"**
 
-![Комбинация 4+9 на Векторном Кольце](/poljarizacionnyesw-wawektornogokolxca-10.png)
+<div>
+<a href="/poljarizacionnyesw-wawektornogokolxca-10.png" data-fancybox="gallery" data-caption="Рис. 4. Комбинация «4 + 9 = 13» на Векторном кольце"><img class="scale" src="/poljarizacionnyesw-wawektornogokolxca-10.png" /></a>
+<h5 text-align:>Рис. 4. Комбинация «4 + 9 = 13» на Векторном кольце</h5>
+</div>
+
+#
 
 Это делает **"4-ку"** "сателлитом" **"9-ки"**. К тому же, как известно, стихия Рака (4-ка) - ВОДА. Так же, как и стихия буквы **МЕМ** (ивр.: мАим - вода).
 
